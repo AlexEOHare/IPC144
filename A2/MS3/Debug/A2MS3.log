@@ -1,0 +1,9 @@
+﻿  contactHelpers.c
+d:\school\visual studio\a2\ms3\contacthelpers.c(176): warning C4047: '==': 'char [11]' differs in levels of indirection from 'size_t'
+d:\school\visual studio\a2\ms3\contacthelpers.c(176): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+d:\school\visual studio\a2\ms3\contacthelpers.c(176): warning C4024: 'strspn': different types for formal and actual parameter 2
+d:\school\visual studio\a2\ms3\contacthelpers.c(231): warning C4028: formal parameter 1 different from declaration
+  contacts.c
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\School\Visual Studio\A2\MS3\Debug\A2MS3.exe : fatal error LNK1120: 1 unresolved externals

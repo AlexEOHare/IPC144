@@ -1,0 +1,14 @@
+In line number 23 of your output:
+The output should be:
+    C: 4161112222   H: 4162223333   B: 4163334444
+But your output is: 
+    C: 4161112222    H: 4162223333    B: 4163334444
+                    ^
+--------------------|
+
+Unmatched character details:
+The character in column 21 is supposed to be:
+  [H] ASCII code(72)
+but you printed
+  [Space] ASCII code(32)
+

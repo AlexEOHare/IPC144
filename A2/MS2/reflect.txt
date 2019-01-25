@@ -1,0 +1,2 @@
+1.It is a function that can be called at any point in the code to accomplish a certain task. This gets rid of the need to constantly write code for the same task. Instead you write the code in a function and call that function which runs the code.
+2.The helper functions can be used outside with other programs so having them in another file on theirown will allow us to use them beyond the function we are currently writing.
