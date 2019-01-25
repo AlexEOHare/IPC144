@@ -1,0 +1,3 @@
+﻿  cashRegister.c
+x:\school\visual studio\ws2\project1\cashregister.c(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> X:\School\Visual Studio\ws2\Project1\Debug\Project1.exe

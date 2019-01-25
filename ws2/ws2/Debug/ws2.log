@@ -1,0 +1,7 @@
+﻿  cashRegister.c
+x:\school\visual studio\ws2\cashregister.c(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+x:\school\visual studio\ws2\cashregister.c(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+x:\school\visual studio\ws2\cashregister.c(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+x:\school\visual studio\ws2\cashregister.c(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+x:\school\visual studio\ws2\cashregister.c(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ws2.vcxproj -> X:\School\Visual Studio\ws2\ws2\Debug\ws2.exe
