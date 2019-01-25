@@ -1,0 +1,1 @@
+This workshop has taught me how to layout the basic scructure of a c program. It has intriduced me to one of the most basic commands in printf and has helped me in the first steps to doing debugging on code when things don't go perfect from the start.
